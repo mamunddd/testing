@@ -1,0 +1,147 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.logo {
+  width: 89.73px;
+  height: 50p;
+}
+
+.HEAD {
+  width: 1320px;
+  height: 70px;
+  background: #419df4;
+  margin: auto;
+}
+
+/*---- BANNAR PART START-----------*/
+.bannar {
+  margin-top: 30px;
+  margin: auto;
+  padding: 0px 16px;
+  max-width: 1320px;
+  height: 500px;
+  background: #e8f0ff;
+}
+
+.bannar h1 {
+  width: 344px;
+  height: 216px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+  color: #343434;
+}
+
+.bannar p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.button {
+  margin-top: 30px;
+  border: none;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 32px;
+  width: 218px;
+  height: 52px;
+  background: #4885ed;
+  border-radius: 46px;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+/*---- THIRD PART START-----------*/
+.info {
+  max-width: 1320px;
+  height: 2407px;
+  margin: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 0px 16px;
+  background-color: #ffff;
+}
+
+.info h2 {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+  margin: auto;
+  margin-top: 30px;
+  color: #343434;
+}
+
+.info p {
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+/*------------------about part start- --------------*/
+.about_us {
+  background-position: center;
+  width: 350px;
+  height: 350px;
+  background: #4cca77;
+  border-radius: 432px;
+}
+
+.about_us h2 {
+  width: 161px;
+  height: 48px;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 48px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.about_us p {
+  margin-top: 10px;
+  width: 290px;
+  height: 77px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #ffffff;
+}
+/*------------------about part start- --------------*/
+
+
+/* Footer Area Start */
+footer {
+  margin-top: 10px;
+  background-color: #dddddd;
+  padding: 10px 20px;
+  margin: auto;
+  max-width: 1320px;
+}
+
+footer p {
+  color: black;
+  padding: 10px 20px;
+}
+
+span {
+  font-weight: bold;
+}
+/* Footer Area End */
